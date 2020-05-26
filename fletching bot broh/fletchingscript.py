@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import pyautogui
 import random
-import decimal
 import time
 '''
 grabs a region (topx, topy, bottomx, bottomy)
